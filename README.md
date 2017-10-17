@@ -1,1 +1,1 @@
-# Python_raining
+# Repository for python training
